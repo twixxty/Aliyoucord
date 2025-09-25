@@ -1,0 +1,37 @@
+{
+    "manifest": {
+        "author": "twixxty",
+        "version": "1.0.0",
+        "name": "AliYouCord (full transparency)",
+        "updater": "https:\/\/github.com\/twixxty\/Aliyoucord\/raw\/refs\/heads\/main\/aliutransparentcord.json"
+    },
+    "background": {
+        "url": "https:\/\/raw.githubusercontent.com\/twixxty\/Aliyoucord\/refs\/heads\/main\/image%20(3).jpg",
+        "blur_radius": 0,
+        "overlay_alpha": 100
+    },
+    "fonts": {
+        "ginto_bold": "https:\/\/github.com\/twixxty\/Expressive-Violet\/raw\/refs\/heads\/main\/Poppins-ExtraBoldItalic.ttf",
+        "ginto_medium": "https:\/\/github.com\/twixxty\/Expressive-Violet\/raw\/refs\/heads\/main\/Poppins-Medium.ttf",
+        "ginto_regular": "https:\/\/github.com\/twixxty\/Expressive-Violet\/raw\/refs\/heads\/main\/Poppins-Regular.ttf"
+    },
+    "simple_colors": {
+        "statusbar": 2571050,
+        "background_secondary": 0,
+        "background": 840704283,
+        "mention_highlight": -13022405,
+        "accent": -8472183,
+        "active_channel": -13022405,
+        "input_background": -13552080
+    },
+    "colors": {
+        "uikit_btn_bg_color_selector_red": -13022405,
+        "primary_dark_200": -2955053,
+        "primary_dark_360": -2955053,
+        "white_800": -15196905
+    },
+    "drawable_tints": {
+        "drawable_button_grey": -15249109
+    },
+    "raws": {}
+}
